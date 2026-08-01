@@ -68,5 +68,12 @@
         "amount": 500.0,
         "category": "Education",
         "date": "2026-08-01"
+    },
+    {
+        "id": "0ed053d6-3f50-4eb8-840c-f0d227fb2776",
+        "title": "Book",
+        "amount": 500.0,
+        "category": "Education",
+        "date": "2026-08-01"
     }
 ]
