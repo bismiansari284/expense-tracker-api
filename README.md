@@ -17,18 +17,30 @@ A RESTful API built using **FastAPI** to manage personal expenses. This project 
 
 ## Features
 
-- Add a new expense
-- View all expenses
-- Filter expenses by category
-- Calculate total expenses
-- Calculate total expenses by category
-- Delete an expense
-- Monthly expense summary (Bonus Feature)
-- Interactive Swagger API documentation
+## Features
+
+- ✅ Create new expenses
+- ✅ Retrieve all expenses
+- ✅ Filter expenses by category
+- ✅ Calculate total expenses
+- ✅ Calculate category-wise totals
+- ✅ Delete expenses
+- ✅ Monthly expense summary
+- ✅ Interactive Swagger documentation
+- ✅ JSON-based local storage
+- ✅ Automated API testing using Pytest
+
+---
+
+## API Highlights
+
+- RESTful API built with FastAPI
+- Automatic Swagger/OpenAPI documentation
 - Input validation using Pydantic
-- Automatically generated UUID for every expense
-- JSON file-based storage (No database required)
-- Automated API tests using Pytest
+- UUID-based expense identifiers
+- Modular project architecture
+- JSON file-based persistence
+- Automated testing with Pytest
 
 ---
 
@@ -168,12 +180,17 @@ Current Status:
 
 ## Tech Stack
 
-- Python 3.14
-- FastAPI
-- Pydantic
-- Uvicorn
-- Pytest
-- JSON File Storage
+## Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python 3.14 | Programming Language |
+| FastAPI | REST API Framework |
+| Pydantic | Data Validation |
+| Uvicorn | ASGI Server |
+| Pytest | Automated Testing |
+| JSON | Local Data Storage |
+| Git & GitHub | Version Control |
 
 ---
 
