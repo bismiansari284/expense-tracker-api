@@ -1,0 +1,72 @@
+[
+    {
+        "id": "5694c06c-d143-4a03-9bd9-df27f85ca29c",
+        "title": "Groceries",
+        "amount": 1200.0,
+        "category": "Food",
+        "date": "2026-08-01"
+    },
+    {
+        "id": "bf689a47-756f-4f75-905a-6d7c04575842",
+        "title": "Fuel",
+        "amount": 800.0,
+        "category": "Travel",
+        "date": "2026-08-15"
+    },
+    {
+        "id": "ac6c2620-6c3e-46e7-93fd-34f77230a26b",
+        "title": "Movie",
+        "amount": 500.0,
+        "category": "Entertainment",
+        "date": "2026-09-03"
+    },
+    {
+        "id": "6b5e9314-eabc-4e24-a42a-e7bb836c33f1",
+        "title": "Movie",
+        "amount": 500.0,
+        "category": "Entertainment",
+        "date": "2026-09-03"
+    },
+    {
+        "id": "7a61be31-cd55-4be2-81f0-e28a99697f1c",
+        "title": "Book",
+        "amount": 500.0,
+        "category": "Education",
+        "date": "2026-08-01"
+    },
+    {
+        "id": "5998aca7-bafa-4e17-a335-ba70387c258b",
+        "title": "Book",
+        "amount": 500.0,
+        "category": "Education",
+        "date": "2026-08-01"
+    },
+    {
+        "id": "1c1c0bd7-6db9-4d27-80ae-55e5f2c6502a",
+        "title": "Book",
+        "amount": 500.0,
+        "category": "Education",
+        "date": "2026-08-01"
+    },
+    {
+        "id": "91157edc-b91c-40c1-8ff4-2fca4074a364",
+        "title": "Book",
+        "amount": 500.0,
+        "category": "Education",
+        "date": "2026-08-01"
+    },
+    {
+        "id": "f06141cc-711a-4063-a2db-91fb77e26e5b",
+        "title": "Groceries",
+        "amount": 1200.0,
+        "category": "Food",
+        "date": "2026-08-01"
+    },
+    {
+        "id": "4b1bf859-faad-4a5f-b436-a949ce028b5f",
+        "title": "Book",
+        "amount": 500.0,
+        "category": "Education",
+        "date": "2026-08-01"
+    }
+]
